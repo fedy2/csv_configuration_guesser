@@ -1,6 +1,6 @@
 name: csv_configuration_guesser
 version: 0.0.1
-author: Federico De Faveri defaveri@gmail.com
+author: Federico De Faveri <defaveri@gmail.com>
 description: A library useful for guessing the csv configuration from his content.
 homepage: https://github.com/fedy2/csv_configuration_guesser/
 environment:
